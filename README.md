@@ -10,3 +10,5 @@ outout the most. Where overall outout is defined as the combination of all the m
   - PG.png, SG.png, SF.png, PF.png, C.png, supporting images for plots
  
 - NBA Complementarity.ipynb, the main code
+
+![alt text](https://github.com/leonilorenzo/NBA-Complementarity/tree/main/images/PG_Complementarity?raw=true)
