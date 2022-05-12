@@ -9,7 +9,7 @@ outout the most. Where overall outout is defined as the combination of all the m
   - NBA STATsR.csv, dataset of players performances through the decade 2010-2020
   - PG.png, SG.png, SF.png, PF.png, C.png, supporting images for plots
 
-- In Images there are the png files for the README.md plots
+- In images there are the png files for the README.md plots
  
 - NBA Complementarity.ipynb, the main code
 
