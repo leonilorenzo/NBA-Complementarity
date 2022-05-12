@@ -1,6 +1,6 @@
 # NBA Complementarity
 
-Find the role-specific complementaritv, i.e. find two different plavers with the same role that maximise the overall
+Find the role-specific complementarity, i.e. find two different players with the same role that maximise the overall
 outout the most. Where overall outout is defined as the combination of all the main stats per game.
 
 - In data there are the csv/excel and png files necessary for the main codes:
