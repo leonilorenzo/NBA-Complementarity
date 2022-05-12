@@ -11,4 +11,4 @@ outout the most. Where overall outout is defined as the combination of all the m
  
 - NBA Complementarity.ipynb, the main code
 
-![plot](https://github.com/leonilorenzo/NBA-Complementarity/PG_Complementarity.png)
+![Alt Text](https://github.com/leonilorenzo/NBA-Complementarity/PG_Complementarity.png)
